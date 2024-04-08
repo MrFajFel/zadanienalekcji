@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        Adres adres1 = new Adres("","wow123","50-223","Wroclaw");
-        Adres adres2 = new Adres("","wow123","50-223","Wroclaw");
+        Adres adres1 = new Adres("ulica","123wow","50-223","Wroclaw");
+        Adres adres2 = new Adres("jakas","21wow","50-223","Wroclaw");
     }
 }
